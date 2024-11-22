@@ -1,0 +1,60 @@
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\obj\Debug\try2.Form1.resources
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\obj\Debug\try2.Properties.Resources.resources
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\obj\Debug\try2.csproj.GenerateResource.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\bin\Debug\try2.exe.config
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\bin\Debug\try2.exe
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\bin\Debug\try2.pdb
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\obj\Debug\try2.exe
+E:\faculty\fourth_computer\1st term\CI\project\trial\3\try\try2\try2\obj\Debug\try2.pdb
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\bin\Debug\try2.exe.config
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\bin\Debug\try2.exe
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\bin\Debug\try2.pdb
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\obj\Debug\try2.Form1.resources
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\obj\Debug\try2.Properties.Resources.resources
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\obj\Debug\try2.csproj.GenerateResource.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\obj\Debug\try2.exe
+E:\faculty\fourth_computer\1st term\CI\project\trial\4\try4\try2\obj\Debug\try2.pdb
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\bin\Debug\try2.exe.config
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\bin\Debug\try2.exe
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\bin\Debug\try2.pdb
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\obj\Debug\try2.Form1.resources
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\obj\Debug\try2.Properties.Resources.resources
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\obj\Debug\try2.csproj.GenerateResource.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\obj\Debug\try2.exe
+E:\faculty\fourth_computer\1st term\CI\project\trial\5\try4\try2\obj\Debug\try2.pdb
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\bin\Debug\try2.exe.config
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\bin\Debug\try2.exe
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\bin\Debug\try2.pdb
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\obj\Debug\try2.Form1.resources
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\obj\Debug\try2.Properties.Resources.resources
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\obj\Debug\try2.csproj.GenerateResource.cache
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\obj\Debug\try2.exe
+E:\faculty\fourth_computer\1st term\CI\project\New folder\new_code\final\final\try4\try2\obj\Debug\try2.pdb
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\bin\Debug\try2.exe.config
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\bin\Debug\try2.exe
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\bin\Debug\try2.pdb
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\obj\Debug\try2.Form1.resources
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\obj\Debug\try2.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\obj\Debug\try2.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\obj\Debug\try2.exe
+C:\Users\LENOVO\Downloads\final1\final1\try4\try2\obj\Debug\try2.pdb
+D:\CI Project\try4\try2\bin\Debug\try2.exe.config
+D:\CI Project\try4\try2\bin\Debug\try2.exe
+D:\CI Project\try4\try2\bin\Debug\try2.pdb
+D:\CI Project\try4\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+D:\CI Project\try4\try2\obj\Debug\try2.Form1.resources
+D:\CI Project\try4\try2\obj\Debug\try2.Properties.Resources.resources
+D:\CI Project\try4\try2\obj\Debug\try2.csproj.GenerateResource.cache
+D:\CI Project\try4\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+D:\CI Project\try4\try2\obj\Debug\try2.exe
+D:\CI Project\try4\try2\obj\Debug\try2.pdb
